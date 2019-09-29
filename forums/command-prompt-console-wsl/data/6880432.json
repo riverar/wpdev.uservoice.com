@@ -1,0 +1,1 @@
+{"id":"6880432","link":"https://wpdev.uservoice.com/forums/266908-command-prompt-console-windows-subsystem-for-l/suggestions/6880432-for-r-bug-in-w7-probably-others","title":"FOR /r bug in W7 (probably others)","body":"FOR /r \"%sourcedir%\" %%a in (filename) ","votes":"2","user":"https://wpdev.uservoice.com/users/61643022-billious","datetime":"2014-12-23","comments":[]}

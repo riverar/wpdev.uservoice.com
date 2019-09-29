@@ -1,0 +1,1 @@
+{"id":"36874723","link":"https://wpdev.uservoice.com/forums/266908-command-prompt-console-windows-subsystem-for-l/suggestions/36874723-wslpath-should-return-wsl-path","title":"wslpath should return \\\\wsl$ path","body":"Currently wslpath rejects path inside VolFs.","votes":"2","user":"https://wpdev.uservoice.com/users/349828054","datetime":"2019-02-17","comments":[]}
